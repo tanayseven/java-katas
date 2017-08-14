@@ -7,8 +7,8 @@ This repository contains a set of katas that are done by me to learn Java
 List of all the katas:
 ----------------------
 
-1. Unix command `true` [implementation](java-katas/true/) (without command line arguments)
-2. Unix command `false` implementation (without command line arguments)
+1. Unix command `true` [implementation](java-katas/True/) (without command line arguments)
+2. Unix command `false` [implementation](java-katas/False/) (without command line arguments)
 3. Unix command `echo` implementation (without command line arguments)
 4. Unix command `cat` implementation (without command line arguments)
 5. Unix command `head` implementation (without command line arguments)
